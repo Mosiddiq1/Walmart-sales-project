@@ -7,3 +7,5 @@ First open the Walmart unclean.ipynb file showcasing  my ability to unclean data
 Once read through this you can open the next file which is show casing my ability to clean data 
 
 open the file called WAlmart Data set new.ipynb to see jupyternote book. To access the csv version select CLEANED_DATASET_PYTHON.CSV
+
+CURRENTLY IN PROGRESS OF COMPLETING GRAPHS.....
