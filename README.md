@@ -1,4 +1,4 @@
-make sure to scroll down once on the jupyternotebook file due to the large dataset
+Make sure to scroll down once on the jupyternotebook file due to the large dataset
 
 Walmart_unclean is me taking the original dataset from kaggle and making it unclean as it was originally cleaned 
 one file is jupyter notebook file and the other is a csv file of uncleaned version 
