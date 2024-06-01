@@ -10,4 +10,6 @@ Once read through this you can open the next file which is show casing my abilit
 
 Open the file called WAlmart Data set new.ipynb to see jupyternote book. To access the csv version select CLEANED_DATASET_PYTHON.CSV
 
+CLEANDATASET_GRAPHS, is showing casing my ability to create graphs using Python and then analysing what has been found, and gave responses n how to possibly increase in sales as a response when viewing the graphs, I have also spoke briefly about a challenge which I have faced.
+
 Have completed this Project. 
