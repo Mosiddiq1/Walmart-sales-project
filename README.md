@@ -8,6 +8,6 @@ Next part is jupyter notebook file to show me cleaning the dataset and also incl
 First open the Walmart unclean.ipynb file showcasing  my ability to unclean data from the original dataset which was from kaggle. If you wish to open it as a CSV file then open the UnCleanWalmartData.csv file
 Once read through this you can open the next file which is show casing my ability to clean data 
 
-open the file called WAlmart Data set new.ipynb to see jupyternote book. To access the csv version select CLEANED_DATASET_PYTHON.CSV
+Open the file called WAlmart Data set new.ipynb to see jupyternote book. To access the csv version select CLEANED_DATASET_PYTHON.CSV
 
-CURRENTLY IN PROGRESS OF COMPLETING GRAPHS.....
+Have completed this Project. 
